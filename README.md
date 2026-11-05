@@ -109,7 +109,8 @@ A aplicação será executada localmente, sem back-end ou banco de dados compart
 ## Identidade visual
 
 Logo e Identidade visual localizados em:
-[Logos](./Logos/) e [Identidade Visual](./Identidade Visual/)
+[Logos](./Logos/) e
+[Identidade Visual](./Identidade Visual/)
 
 ### Conceito
 
