@@ -102,7 +102,6 @@ A aplicação será executada localmente, sem back-end ou banco de dados compart
 | Ferramenta | Finalidade |
 |---|---|
 | VS Code | Desenvolvimento do código |
-| Live Server | Execução local no navegador |
 | Git e GitHub | Versionamento e organização do projeto |
 | Figma | Planejamento das telas e da identidade visual |
 
