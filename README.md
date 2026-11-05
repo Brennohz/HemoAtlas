@@ -108,6 +108,9 @@ A aplicação será executada localmente, sem back-end ou banco de dados compart
 <a id="identidade"></a>
 ## Identidade visual
 
+Logo e Identidade visual localizados em:
+
+
 ### Conceito
 
 O nome **HemoAtlas** une a referência ao sangue à ideia de um atlas: um mapa que ajuda a localizar unidades e consultar suas necessidades.
