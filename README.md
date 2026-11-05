@@ -170,4 +170,4 @@ Os indicadores terão rótulos para que a informação não dependa apenas da co
 <a id="pitch"></a>
 ## Pitch
 
-O HemoAtlas conecta a vontade de doar à informação sobre onde ajudar. Em um mapa interativo do Brasil, reúne unidades de coleta, horários e necessidades de sangue divulgadas por fontes oficiais. Com filtros por localização e tipo sanguíneo, histórico de doações e lembretes de retorno, o projeto busca facilitar a escolha de onde doar e incentivar a continuidade das doações. Seu diferencial é apresentar as informações por rede e unidade, com origem e atualização identificadas.
+O HemoAtlas conecta a vontade de doar à informação sobre onde ajudar. Em um mapa interativo do Brasil, reúne unidades de coleta, horários e necessidades de sangue divulgadas por fontes oficiais. Com filtros por localização e tipo sanguíneo, histórico de doações e lembretes de retorno, o projeto busca facilitar a escolha de onde doar e incentivar a continuidade das doações. Seu diferencial é apresentar as informações por rede e unidade, com estoques atualizados.
