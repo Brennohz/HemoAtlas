@@ -70,13 +70,13 @@ As informações serão obtidas em bases públicas e nos sites oficiais das inst
 
 | Fonte | Informações utilizadas |
 |---|---|
-| [CNES / DATASUS](https://wiki.datasus.gov.br/cnes/index.php/Portal_CNES) | Identificação e dados cadastrais dos estabelecimentos |
-| [Ministério da Saúde](https://www.gov.br/saude/pt-br/composicao/saes/doacao-de-sangue/arquivos/lista-de-hemocentros.pdf/view) | Relação de hemocentros para complementar o levantamento |
+| [CNES / DATASUS — consulta de estabelecimentos](https://cnes.datasus.gov.br/pages/estabelecimentos/consulta.jsp) | Nome, código CNES, endereço, município, estado e coordenadas da unidade, quando disponíveis |
+| [Ministério da Saúde](https://www.gov.br/saude/pt-br/composicao/saes/doacao-de-sangue/arquivos/lista-de-hemocentros.pdf/view) | Lista nacional de hemocentros para complementar o levantamento |
 | [IBGE](https://servicodados.ibge.gov.br/api/docs/malhas?versao=3) | Contornos do Brasil e dos estados para o mapa |
-| [Hemominas](https://hemominas.mg.gov.br/) | Informações institucionais e situação dos estoques divulgados |
-| [HEMOSC](https://www.hemosc.org.br/index.php) | Informações sobre a rede e seus estoques |
-| [Fundação Pró-Sangue](https://prosangue.sp.gov.br/reqestoque/posicao_estoque.php) | Situação de estoque divulgada pela instituição |
-| [Hemoba](https://www.ba.gov.br/hemoba/onde-doar) | Unidades, endereços, contatos e horários de coleta |
+| [Hemominas](https://hemominas.mg.gov.br/) | Situação do estoque da rede por tipo sanguíneo e data de atualização |
+| [HEMOSC](https://www.hemosc.org.br/index.php) | Níveis de estoque de concentrado de hemácias da hemorrede |
+| [Fundação Pró-Sangue](https://prosangue.sp.gov.br/reqestoque/posicao_estoque.php) | Painel de estoque da instituição |
+| [Hemoba](https://www.ba.gov.br/hemoba/onde-doar) | Unidades de coleta, endereços, contatos e horários |
 
 O catálogo será ampliado com outras fontes oficiais. Cada informação de estoque terá sua fonte e a data disponível de atualização. Indicadores de uma rede serão identificados como dados da rede, sem atribuí-los individualmente a cada unidade. Quando não houver divulgação, o site mostrará **“estoque não informado”**.
 
